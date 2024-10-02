@@ -34,7 +34,7 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
 3. [18/10/24, *the*] Algorithms
    - book chapter: [PDF](https://comp-think.github.io/book/02.pdf), [Google Docs](https://comp-think.github.io/book/02)
    <hr />
-4. [21/10/24, *lab*] Laboratory: 1st Lesson
+4. [23/10/24, *lab*] Laboratory: 1st Lesson
    - book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/01)
    <hr />
 5. [25/10/24, *the*] Computability
@@ -106,16 +106,16 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
 17. [6/12/24, *lab*] Laboratory: 5th Lesson
     - book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/05)
     <hr />
-18. [9/12/24, *the*] Backtracking algorithms
+18. [9/12/24, *lab*] Laboratory: 6th Lesson
+    - book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/06)
+    <hr />
+19. [11/12/24, *the*] Backtracking algorithms
     - book chapter: [PDF](https://comp-think.github.io/book/12.pdf), [Google Docs](https://comp-think.github.io/book/12)
     - Python: [peg_solitaire.py](https://comp-think.github.io/python/peg_solitaire.py)
     <hr />
-19. [11/12/24, *the*] Organising information: graphs
+20. [13/12/24, *the*] Organising information: graphs
     - book chapter: [PDF](https://comp-think.github.io/book/13.pdf), [Google Docs](https://comp-think.github.io/book/13)
     - Python: [graph_instructions.py](https://comp-think.github.io/python/graph_instructions.py), [multigraph_instructions.py](https://comp-think.github.io/python/multigraph_instructions.py), [graph_attribute_instructions.py](https://comp-think.github.io/python/graph_attribute_instructions.py)
-    <hr />
-20. [13/12/24, *lab*] Laboratory: 6th Lesson
-    - book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/06)
     <hr />
 21. [16/12/24, *the*] Greedy algorithms
     - book chapter: [PDF](https://comp-think.github.io/book/14.pdf), [Google Docs](https://comp-think.github.io/book/14)
@@ -131,7 +131,7 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
   <tr><td>14/10/24</td><td>09:00-11:00</td><td>Introduction to the course</td></tr>
   <tr><td>16/10/24</td><td>09:00-11:00</td><td>Introduction to Computational Thinking</td></tr>
   <tr><td>18/10/24</td><td>12:00-14:00</td><td>Algorithms</td></tr>
-  <tr><td>21/10/24</td><td>09:00-11:00</td><td>Laboratory: 1st Lesson</td></tr>
+  <tr><td>23/10/24</td><td>09:00-11:00</td><td>Laboratory: 1st Lesson</td></tr>
   <tr><td>25/10/24</td><td>12:00-14:00</td><td>Computability</td></tr>
   <tr><td>11/11/24</td><td>09:00-11:00</td><td>Programming languages</td></tr>
   <tr><td>13/11/24</td><td>09:00-11:00</td><td>Organising information: ordered structures</td></tr>
@@ -145,9 +145,9 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
   <tr><td>2/12/24</td><td>09:00-11:00</td><td>Dynamic programming algorithms</td></tr>
   <tr><td>4/12/24</td><td>09:00-11:00</td><td>Organising information: trees</td></tr>
   <tr><td>6/12/24</td><td>09:00-11:00</td><td>Laboratory: 5th Lesson</td></tr>
-  <tr><td>9/12/24</td><td>09:00-11:00</td><td>Backtracking algorithms</td></tr>
-  <tr><td>11/12/24</td><td>09:00-11:00</td><td>Organising information: graphs</td></tr>
-  <tr><td>13/12/24</td><td>09:00-11:00</td><td>Laboratory: 6th Lesson</td></tr>
+  <tr><td>9/12/24</td><td>09:00-11:00</td><td>Laboratory: 6th Lesson</td></tr>
+  <tr><td>11/12/24</td><td>09:00-11:00</td><td>Backtracking algorithms</td></tr>
+  <tr><td>13/12/24</td><td>09:00-11:00</td><td>Organising information: graphs</td></tr>
   <tr><td>16/12/24</td><td>09:00-11:00</td><td>Greedy algorithms</td></tr>
   <tr><td>17/12/24</td><td>09:00-12:00</td><td>Workshop</td></tr>
 </table>
