@@ -27,6 +27,7 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
 - _wor_ = workshop session
 
 1. [14/10/24, *the*] Introduction to the course
+   - slides: [HTML](https://comp-think.github.io/2024-2025/slides/00%20-%20Course%20introduction.html)
    <hr />
 2. [16/10/24, *the*] Introduction to Computational Thinking
    - book chapter: [PDF](https://comp-think.github.io/book/01.pdf), [Google Docs](https://comp-think.github.io/book/01)
