@@ -39,12 +39,15 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
    - book chapter: [PDF](https://comp-think.github.io/book/02.pdf), [Google Docs](https://comp-think.github.io/book/02)
    - slides: [HTML](https://comp-think.github.io/2024-2025/slides/02%20-%20Algorithms.html)
    - exercises: [1](https://github.com/comp-think/2024-2025/issues/5), [2](https://github.com/comp-think/2024-2025/issues/6), [3](https://github.com/comp-think/2024-2025/issues/7)
+   - solutions: [1](https://comp-think.github.io/keys/02/exercise-1), [2](https://comp-think.github.io/keys/02/exercise-2), [3](https://comp-think.github.io/keys/02/exercise-3)
    <hr />
 4. [23/10/24, *lab*] Laboratory: 1st Lesson
    - book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/01)
    <hr />
 5. [25/10/24, *the*] Computability
    - book chapter: [PDF](https://comp-think.github.io/book/03.pdf), [Google Docs](https://comp-think.github.io/book/03)
+   - slides: [HTML](https://comp-think.github.io/2024-2025/slides/03%20-%20Computability.html)
+   - exercises: [1](https://github.com/comp-think/2024-2025/issues/9), [2](https://github.com/comp-think/2024-2025/issues/10), [3](https://github.com/comp-think/2024-2025/issues/11)
    <hr />
 6. [11/11/24, *the*] Programming languages
    - book chapter: [PDF](https://comp-think.github.io/book/04.pdf), [Google Docs](https://comp-think.github.io/book/04)
