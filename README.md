@@ -118,13 +118,16 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
     - slides: [HTML](https://comp-think.github.io/2024-2025/slides/09%20-%20Divide%20and%20conquer%20algorithms.html)
     - Python: [immutable_values.py](https://comp-think.github.io/python/immutable_values.py), [mutable_values.py](https://comp-think.github.io/python/mutable_values.py), [immutable_and_mutable_variables.py](https://comp-think.github.io/python/immutable_and_mutable_variables.py), [merge.py](https://comp-think.github.io/python/merge.py), [merge_sort.py](https://comp-think.github.io/python/merge_sort.py)
     - exercises: [1](https://github.com/comp-think/2024-2025/issues/28), [2](https://github.com/comp-think/2024-2025/issues/29), [3](https://github.com/comp-think/2024-2025/issues/30)
+    - solutions: [1](https://comp-think.github.io/keys/09/exercise-1), [2](https://comp-think.github.io/keys/09/exercise-2), [3](https://comp-think.github.io/keys/09/exercise-3)
     <hr />
 14. [29/11/24, *lab*] Laboratory: 4th Lesson
     - book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/04)
     <hr />
 15. [2/12/24, *the*] Dynamic programming algorithms
     - book chapter: [PDF](https://comp-think.github.io/book/10.pdf), [Google Docs](https://comp-think.github.io/book/10)
+    - slides: [HTML](https://comp-think.github.io/2024-2025/slides/10%20-%20Dynamic%20programming%20algorithms.html)
     - Python: [fib_dc.py](https://comp-think.github.io/python/fib_dc.py), [fib_dp.py](https://comp-think.github.io/python/fib_dp.py)
+    - exercises: [1](https://github.com/comp-think/2024-2025/issues/31), [2](https://github.com/comp-think/2024-2025/issues/32)
     <hr />
 16. [4/12/24, *the*] Organising information: trees
     - book chapter: [PDF](https://comp-think.github.io/book/11.pdf), [Google Docs](https://comp-think.github.io/book/11)
