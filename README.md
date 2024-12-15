@@ -155,10 +155,13 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
     - slides: [HTML](https://comp-think.github.io/2024-2025/slides/13%20-%20Organising%20information%20-%20graphs.html)
     - Python: [graph_instructions.py](https://comp-think.github.io/python/graph_instructions.py), [multigraph_instructions.py](https://comp-think.github.io/python/multigraph_instructions.py), [graph_attribute_instructions.py](https://comp-think.github.io/python/graph_attribute_instructions.py)
     - exercises: [1](https://github.com/comp-think/2024-2025/issues/37), [2](https://github.com/comp-think/2024-2025/issues/38)
+    - solutions: [1](https://comp-think.github.io/keys/13/exercise-1), [2](https://comp-think.github.io/keys/13/exercise-2)
     <hr />
 21. [16/12/24, *the*] Greedy algorithms
     - book chapter: [PDF](https://comp-think.github.io/book/14.pdf), [Google Docs](https://comp-think.github.io/book/14)
+    - slides: [HTML](https://comp-think.github.io/2024-2025/slides/14%20-%20Greedy%20algorithms.html)
     - Python: [line_wrap.py](https://comp-think.github.io/python/line_wrap.py)
+    - exercises: [1](https://github.com/comp-think/2024-2025/issues/39), [2](https://github.com/comp-think/2024-2025/issues/40)
     <hr />
 22. [17/12/24, *wor*] Workshop
     <hr />
