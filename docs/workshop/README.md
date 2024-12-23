@@ -58,7 +58,7 @@ python run.py
 ```
 
 ## Final results
-All the functions implemented by each group (that submitted a syntactical-correct Python code - i.e. "It runs, it runs!") were used to run the main Python script [*Cannon Escape*](https://comp-think.github.io/2024-2025/workshop/00_run_cannon_escape.py) with all the groups' implementation. It used [100 different labyrinths](https://github.com/comp-think/2024-2025/tree/main/docs/workshop/rooms) that have been generated randomly running [create_labyrinth.py](https://comp-think.github.io/2024-2025/workshop/support/create_rooms.py).
+All the functions implemented by each group (that submitted a syntactical-correct Python code - i.e. "It runs, it runs!") were used to run the main Python script [*Cannon Escape*](https://comp-think.github.io/2024-2025/workshop/00_run_cannon_escape.py) with all the groups' implementation. It used [100 different labyrinths](https://github.com/comp-think/2024-2025/tree/main/docs/workshop/rooms) that have been generated randomly running [create_rooms.py](https://comp-think.github.io/2024-2025/workshop/support/create_rooms.py).
 
 The [final results](https://comp-think.github.io/2024-2025/workshop/00_results.txt) of this execution are summarised as follows:
 
