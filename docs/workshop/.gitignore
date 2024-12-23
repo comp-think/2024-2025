@@ -1,6 +1,3 @@
-john_doe.py
-support/
-rooms/
-00_results.txt
-00_run_cannon_escape.py
+.DS_Store
 __pycache__/
+students/

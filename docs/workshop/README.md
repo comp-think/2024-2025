@@ -56,3 +56,27 @@ To test the implementation of `do_move`, run:
 ```
 python run.py
 ```
+
+## Final results
+All the functions implemented by each group (that submitted a syntactical-correct Python code - i.e. "It runs, it runs!") were used to run the main Python script [*Cannon Escape*](https://comp-think.github.io/2024-2025/workshop/00_run_cannon_escape.py) with all the groups' implementation. It used [100 different labyrinths](https://github.com/comp-think/2024-2025/tree/main/docs/workshop/rooms) that have been generated randomly running [create_labyrinth.py](https://comp-think.github.io/2024-2025/workshop/support/create_rooms.py).
+
+The [final results](https://comp-think.github.io/2024-2025/workshop/00_results.txt) of this execution are summarised as follows:
+
+* Groups that avoided cheating: east_coast
+* Groups that won at least 30 mazes: members_of_the_brigata, east_coast, team_team, global_variables, garden_babes, everybodys_welcome
+* Grouops that won at least 90 mazes: east_coast
+* Groups that had the best rank: programmers_al_dente
+
+Concluding:
+* *east_coast* members receive 3 points
+* *members_of_the_brigata*, *team_team*, *global_variables*, *garden_babes*, *everybodys_welcome*, *programmers_al_dente* members receive 1 point
+
+In case one group want to test its code with the code used for the evaluation (i.e. [`00_run_cannon_escape.py`](https://comp-think.github.io/2024-2025/workshop/00_run_cannon_escape.py)), it is necessary:
+
+* to clone the current directory dedicated to the workshop;
+* to copy the file containing the group code in the same directory of `00_run_cannon_escape.py`;
+* to import the group file as usual (i.e. `import <group_file_name_without_extension>`);
+* to substitute `john_doe` with the name of the imported file in the list `all_players`;
+* to run the code with `python 00_run_cannon_escape.py`.
+
+In case it is needed, the file [`john_doe.py`](https://comp-think.github.io/2024-2025/workshop/john_doe.py) provides a possible implementation of the thief.
