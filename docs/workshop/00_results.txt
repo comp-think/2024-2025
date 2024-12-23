@@ -502,6 +502,6 @@
 
 ## FINAL RESULTS ##
 Avoiding cheating (i.e. no walls destroyed or pretending destroying a wall): east_coast
-Winning at least 30 mazes: members_of_the_brigata east_coast team_team global_variables garden_babes everybodys_welcome
+Winning at least 30 mazes: team_team global_variables garden_babes east_coast everybodys_welcome members_of_the_brigata
 Winning at least 90 mazes: east_coast
-Best rank (e.g. minimum number of walls missed): programmers_al_dente
+Best rank (e.g. minimum number of walls missed): east_coast

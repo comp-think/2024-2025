@@ -65,11 +65,11 @@ The [final results](https://comp-think.github.io/2024-2025/workshop/00_results.t
 * Groups that avoided cheating: east_coast
 * Groups that won at least 30 mazes: members_of_the_brigata, east_coast, team_team, global_variables, garden_babes, everybodys_welcome
 * Grouops that won at least 90 mazes: east_coast
-* Groups that had the best rank: programmers_al_dente
+* Groups that had the best rank: east_coast
 
 Concluding:
-* *east_coast* members receive 3 points
-* *members_of_the_brigata*, *team_team*, *global_variables*, *garden_babes*, *everybodys_welcome*, *programmers_al_dente* members receive 1 point
+* *east_coast* members receive 4 points
+* *members_of_the_brigata*, *team_team*, *global_variables*, *garden_babes*, *everybodys_welcome* members receive 1 point
 
 In case one group want to test its code with the code used for the evaluation (i.e. [`00_run_cannon_escape.py`](https://comp-think.github.io/2024-2025/workshop/00_run_cannon_escape.py)), it is necessary:
 

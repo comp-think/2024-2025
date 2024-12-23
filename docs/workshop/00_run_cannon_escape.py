@@ -209,7 +209,7 @@ if __name__ == "__main__":
                       if final_results["winners"][player_name] > 89])
     
     # 4. Best rank (e.g. minimum number of walls missed)
-    best_rank = {k: v for k, v in Counter(final_results["rank"]).items() if v == max(Counter(final_results["rank"]).values())}
+    best_rank = {k: v for k, v in Counter(final_results["rank"]).items() if v == min(Counter(final_results["rank"]).values())}
 
     final_results_str = "\n\n## FINAL RESULTS ##\nAvoiding cheating (i.e. no walls destroyed or pretending destroying a wall): " +  " ".join(avoid_cheating) + "\nWinning at least 30 mazes: " + " ".join(destroy_30) + "\nWinning at least 90 mazes: " + " ".join(destroy_90) + "\nBest rank (e.g. minimum number of walls missed): " + " ".join(best_rank)
 
